@@ -1,8 +1,8 @@
 ﻿<?php
 	if($_POST){
 		// Information to be modified
-		$to_email = "info@mallapuram.com"; // email address to which the form data will be sent
-		$subject = "Jr Auto Contact Request Demo"; // subject of the email that is sent
+		$to_email = "bhavratnod@gmail.com"; // email address to which the form data will be sent
+		$subject = "Mallapuram Insurance & Allied Services"; // subject of the email that is sent
 		$thanks_page = "index.html"; // path to the thank you page following successful form submission
 		$contact_page = "index.html"; // path to the HTML contact page where the form appears
 
